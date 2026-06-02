@@ -1,12 +1,13 @@
 <div align= "center">
 
-  <h1 align="center">Hi 👋, I'm Hruthik</h1>
-  <h3 align="center">
+  <h2>Hi 👋, I'm Hruthik</h1>
+  <h4>
     Full-Stack Engineer • AI Engineer • Founder @ Neylon AI
   </h3>
-  <p align="center">
+  <p>
     Building AI Agents, RAG Systems, and Production-Scale Web Applications.
   </p>
+  
   🚀 About Me
   * 💼 Software Development Engineer
   * 🤖 Founder & Lead Engineer at Neylon AI
