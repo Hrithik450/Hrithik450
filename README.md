@@ -1,5 +1,5 @@
 <div align= "center">
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Hrithik450&theme=github-dark-blue&hide_border=false&cache_seconds=7200" alt="GitHub Streak Stats" />
+  <h1 align="center">Hi 👋, I'm Hruthik</h1>
 
 </div>
