@@ -62,7 +62,7 @@ Multi-agent workflows, RAG pipelines, vector databases, document intelligence, a
 </table>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,react,nextjs,astro,tailwind,django,fastapi,nodejs,postgres,mongodb,gcp,firebase,git,github,postman,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,react,nextjs,astro,django,fastapi,nodejs,postgres,mongodb,gcp,firebase,github,postman" />
 </div>
 
 ## 🌐 Connect With Me
