@@ -1,8 +1,6 @@
 # Hi 👋, I'm Hruthik
 
-**Full-Stack AI Engineer • Building @ Neylon AI**
-
-Building AI Agents, RAG Systems, and Production-Scale Web Applications.
+**Full-Stack Engineer | Agentic AI | Building @ Neylon AI**
 
 ## 🚀 About Me
 
