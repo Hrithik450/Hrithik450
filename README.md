@@ -1,6 +1,6 @@
 # Hi 👋, I'm Hruthik
 
-**Full-Stack Engineer | Agentic AI | Building @ Neylon AI**
+**Full-Stack Engineer  |  Agentic AI  |  Building @ Neylon AI**
 
 ## 🚀 About Me
 
