@@ -1,32 +1,79 @@
-<div align= "center">
+# Hi 👋, I'm Hruthik
 
-  <h2>Hi 👋, I'm Hruthik</h1>
-  <h4>
-    Full-Stack Engineer • AI Engineer • Founder @ Neylon AI
-  </h3>
-  <p>
-    Building AI Agents, RAG Systems, and Production-Scale Web Applications.
-  </p>
-  
-  🚀 About Me
-  * 💼 Software Development Engineer
-  * 🤖 Founder & Lead Engineer at Neylon AI
-  * 🧠 Building AI Agents using LangGraph, LangChain & Vector Databases
-  * 🌐 Full-Stack Developer (Next.js, Django, React, Node.js)
-  * 🛠 Passionate about scalable backend systems and AI-powered products
-  * 📍 Bengaluru, India
+**Full-Stack AI Engineer • Building @ Neylon AI**
 
-  🔥 Featured Projects
+Building AI Agents, RAG Systems, and Production-Scale Web Applications.
 
-  🤖 AI Market Sentiment Analyzer  
-    AI-powered sentiment analysis platform processing thousands of market signals daily.
+## 🚀 About Me
+
+- 💼 Software Development Engineer
+- 🤖 Engineering Neylon AI (Agents that solves problems)
+- 🧠 Building AI Agents using LangGraph, LangChain & Vector Databases
+- 🌐 Full-Stack Developer (Next.js, Django, React, Node.js)
+- 📍 Bengaluru, India
+
+## 🔥 My Works
+
+### 🤖 Neylon AI
+Production-ready AI assistant platform enabling businesses to deploy customizable AI agents with real-time streaming responses, persistent conversation memory, and scalable backend infrastructure.
+<br>
+🔗 **Links:** [GitHub](https://github.com/Hrithik450/neylonai-client)
+
+### 🧠 AI Agents
+Multi-agent workflows, RAG pipelines, vector databases, document intelligence, and AI automation.
+<br>
+🔗 **Links:** [GitHub](https://github.com/Hrithik450/neylonai)
+
+## 🛠 Tech Stack
+
+<table>
+  <tr>
+  <td><b>Languages</b></td>
+  <td>Python, TypeScript, JavaScript, C++</td>
+  </tr>
+
+  <tr>
+  <td><b>Frontend</b></td>
+  <td>Astro, React, Next.js</td>
+  </tr>
+
+  <tr>
+  <td><b>Backend</b></td>
+  <td>Django, FastAPI, Node.js, REST APIs, WebSockets</td>
+  </tr>
   
-  🧠 Agentic AI Systems
-    Multi-agent workflows, RAG pipelines, vector databases, document intelligence, and AI automation.
-  
-  🚀 MERN Launcher
-    One-command MERN stack bootstrapper for developers.
-  
-  🛒 eCommerce Platform
-    Full-stack commerce application with authentication, payments, and admin workflows.
+  <tr>
+  <td><b>AI / LLM</b></td>
+  <td>LangChain, LangGraph, OpenAI, RAG, ChromaDB, FAISS</td>
+  </tr>
+
+  <tr>
+  <td><b>Databases</b></td>
+  <td>PostgreSQL, SQL</td>
+  </tr>
+
+  <tr>
+  <td><b>Cloud</b></td>
+  <td>GCP, Firebase, Vercel, VPS, Cloud Run</td>
+  </tr>
+
+  <tr>
+  <td><b>Tools</b></td>
+  <td>Git, GitHub, Postman</td>
+  </tr>
+</table>
+
+<div>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,react,nextjs,astro,tailwind,django,fastapi,nodejs,postgres,mongodb,gcp,firebase,git,github,postman,figma,vscode" />
+</div>
+
+## 🌐 Connect With Me
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
