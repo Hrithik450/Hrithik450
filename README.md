@@ -4,13 +4,12 @@
 
 ## 🚀 About Me
 
-- 💼 Software Development Engineer
-- 🤖 Engineering Neylon AI (Agents that solves problems)
-- 🧠 Building AI Agents using LangGraph, LangChain & Vector Databases
-- 🌐 Full-Stack Developer (Next.js, Django, React, Node.js)
+- 💼 Full-Stack AI Engineer
+- 🤖 Engineering Neylon AI [Neylon AI](https://neylonai-client.vercel.app/)
+- 🧠 AI Agents using LangGraph, LangChain & Vector Databases
 - 📍 Bengaluru, India
 
-## 🔥 My Works
+## 🔥 My Major Works
 
 ### 🤖 Neylon AI
 Production-ready AI assistant platform enabling businesses to deploy customizable AI agents with real-time streaming responses, persistent conversation memory, and scalable backend infrastructure.
